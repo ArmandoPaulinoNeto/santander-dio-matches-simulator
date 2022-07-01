@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simulador de Partidas</string>
+    <string name="txt_fab_simulator">Botão para simular partidas</string>
+    <string name="cd_home_team_img">Imagem do time de mandante</string>
+    <string name="cd_away_team_img">TODO</string>
+    <string name="cd_Match_place_img">Imagem do local da partida</string>
+</resources>
